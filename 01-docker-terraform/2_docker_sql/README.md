@@ -25,3 +25,4 @@
 
 - Docker compose and running pgadmin and Postgres together
 
+**Note**: run <code>docker inspect [name]</code> and find the **Gateway** of **pg-network**
