@@ -13,7 +13,7 @@
 
     > **Postgres** : là 1 database
     >
-    >**pgAdmin** :
+    >**pgAdmin** :  lầ công cụ thông dụng nhất để quản lý và thao tác với PostgreSQ
 
 
 
